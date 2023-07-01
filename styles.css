@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
 #line {
+	position:absolute;
+	top:100px;
   background-color: black;
   width: 200px;
   height: 2px;
-  transform-origin: top left;
+  transform-origin: center;
 }
